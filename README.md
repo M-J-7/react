@@ -1,1 +1,1 @@
-# this is my personal teact project
+# this is my personal react project
